@@ -15,7 +15,8 @@ I'm a **Registered Nurse**, a **Healthcare Data Analyst**, and a **Virtual Assis
 - Microsoft Excel
 - SQL 
 - Tableau
-- Power BI 
+- Power BI
+- SPSS
 
 **Writing & Assistance**
 - Medical & Health Writing  
