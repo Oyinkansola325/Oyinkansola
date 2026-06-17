@@ -1,8 +1,8 @@
-# 👋 Hey there, I'm Oyinkansola Temiyemi!
+# Hello, I'm Oyinkansola Temiyemi!
 
 ## 🧕🏽 About Me
 
-I'm a **Registered Nurse**, a **Healthcare Data Analyst**, and a **Virtual Assistant**. I blend care, clarity, and creativity to improve healthcare through research, data, and digital support.
+I'm a **Registered Nurse**, **Healthcare Data Analyst**, **Medical Writer and Researcher**. I leverage research, data and communication to improve healthcare systems and patient outcomes.
 
 ## 🛠 Skills and Tools
 
@@ -18,17 +18,11 @@ I'm a **Registered Nurse**, a **Healthcare Data Analyst**, and a **Virtual Assis
 - Power BI
 - SPSS
 
-**Writing & Assistance**
-- Medical & Health Writing  
-- Research Manuscripts & Reports  
-- Executive Virtual Assistance  
-- Document Management & Calendar Scheduling  
-
 ## 📁 Projects
 
 Here are some things I’ve worked on or contributed to:
 
-## 🌟 Favourite Projects
+## 🌟 Selected Projects
 [LinkedIn](https://www.linkedin.com/in/oyinkansola-temiyemi-454891246)
 
 ## 🤝 Connect With Me
@@ -37,5 +31,4 @@ Let's connect, collaborate, or chat over shared interests.
 
 - 🌐 **LinkedIn**: [Oyinkansola Temiyemi](https://www.linkedin.com/in/oyinkansola-temiyemi-454891246)  
 - 📧 **Email**: oyinkansolatemiyemi325@gmail.com  
-- 📓 **Blog/Portfolio**: Coming Soon  
-- 💬 **WhatsApp Contact**: [Click to chat](https://wa.me/2348143521943)
+- 📓 **Blog/Portfolio**: https://oyinkansola325.github.io/Portfolio/
